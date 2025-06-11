@@ -2,7 +2,7 @@
 title: "Data and statecraft: why and how states localize data"
 collection: publications
 category: manuscripts
-permalink: /publications/dataandstatecraft
+permalink: /publication/dataandstatecraft
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2024-03-12
 venue: 'Business & Politics'
