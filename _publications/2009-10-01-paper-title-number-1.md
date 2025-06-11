@@ -6,7 +6,7 @@ permalink: /publication/whatisbehind
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-12-31
 venue: 'Korean Journal of International Studies'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://doi.org/10.14731/kjis.2021.12.19.3.303'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
