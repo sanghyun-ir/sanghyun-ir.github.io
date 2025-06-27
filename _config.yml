@@ -1,13 +1,13 @@
 # Site settings
-title: Soonhong Cho
-email: tnsehdtm@gmail.com
+title: Sanghyun Han
+email: shhan[at]gatech[dot]edu
 description: >
- Department of Political Science
- Bunche Hall
- Los Angeles, CA 90095
+ Sam Nunn School of International Affairs
+ Georgia Institute of Technology
+ Atlanta, GA 30318
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://soonhong-cho.github.io" # the base hostname & protocol for your site
-github_username:  soonhong-cho
+url: "http://sanghyun-ir.github.io" # the base hostname & protocol for your site
+github_username:  sanghyun-ir
 encoding: UTF-8
 # Build settings
 markdown: kramdown
